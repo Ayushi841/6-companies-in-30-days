@@ -1,2 +1,2 @@
 # 6-companies-in-30-days
-I have accpeted the challenge #6companies30days and #revisewitharsh 
+I have accepted the challenge #6companies30days and #revisewitharsh 
